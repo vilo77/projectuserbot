@@ -1,0 +1,12 @@
+kurigram==2.2.23
+# tgcrypto==1.2.5 (Optional, requires C++ compiler for C extensions, comment out if it errors on Windows)
+fastapi==0.111.0
+
+uvicorn==0.30.1
+sqlalchemy[asyncio]==2.0.30
+asyncpg==0.29.0
+python-dotenv==1.0.1
+jinja2==3.1.4
+aiofiles==23.2.1
+aiosqlite==0.20.0
+
